@@ -40,7 +40,7 @@ Para configurar el entorno y ejecutar los notebooks, sigue estos pasos:
 2. Crea un entorno virtual:
     ```sh
     python -m venv env
-    source env/bin/activate  # En Windows usa `env\Scripts\activate`
+    source env/bin/activate  # En Windows usa `.env\Scripts\activate`
     ```
 
 3. Instala las dependencias:
